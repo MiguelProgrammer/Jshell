@@ -27,4 +27,4 @@ Veja como é simples uma soma:
 
 O comando <b>/help intro</b> poderá lhe dar mais opções de como brincar com o Jshell
 
-Caso queira desbravar mais sobre, visite o site da <a href="https://docs.oracle.com/javase/9/jshell/commands.htm#JSHEL-GUID-34165A38-E6D0-459D-9947-4DEA9845A71A" target="_BLANK">Oracle</a>
+Caso queira desbravar mais sobre, visite o site da <a href="https://docs.oracle.com/javase/9/jshell/commands.htm#JSHEL-GUID-34165A38-E6D0-459D-9947-4DEA9845A71A" target="_blank">Oracle</a>
